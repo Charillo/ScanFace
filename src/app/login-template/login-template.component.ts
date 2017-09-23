@@ -1,0 +1,17 @@
+import { Component, OnInit } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+@Component({
+  selector: 'app-login-template',
+  templateUrl: './login-template.component.html',
+  styleUrls: ['./login-template.component.css']
+})
+export class LoginTemplateComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit() {
+    // var PythonShell = require('python-shell');
+
+
+  }
+}
